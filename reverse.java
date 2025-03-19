@@ -4,6 +4,7 @@ public class reverse {
         int a[]={1,2,3};
         int j=0;
         int c[]=new int[3];
+        int d[]=new int[4];
 
         for (int i=2;i>=0;i--){
             if(j<3){
