@@ -1,7 +1,8 @@
 public class reverse {
     public static void main(String args[])
     {
-        int a[]={1,2,3},j=0;
+        int a[]={1,2,3};
+        int j=0;
         int c[]=new int[3];
 
         for (int i=2;i>=0;i--){
