@@ -2,7 +2,7 @@ public class reverse {
     public static void main(String args[])
     {
         int a[]={1,2,3};
-        int a=0;
+        int j=0;
         int c[]=new int[3];
         int d[]=new int[4];
 
